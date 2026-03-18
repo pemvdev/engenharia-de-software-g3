@@ -51,4 +51,4 @@ Iniciação * Configuração do repositório.
 5º - Implantação Lançamento do MVP e disponibilização da API de identificação.
 
 6º - Gerenciamento de Projeto Monitoramento de taxas de acerto e ciclo de feedback dos especialistas.
-Tema Proposto - Identificação de Estágios de Vida e Metamorfose com IA
+Tema Proposto - Identificação de Estágios de Vida e Metamorfose com IA.
